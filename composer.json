@@ -1,0 +1,17 @@
+{
+  "name": "lqtto/tpns",
+  "description": "腾讯 移动推送 TPNS PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lqtto",
+      "email": "26507936@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload":{
+    "psr-4":{"tencent\\tpns\\":"src"}
+  }
+}
